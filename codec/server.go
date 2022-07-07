@@ -15,7 +15,7 @@ import (
 	"time"
 )
 
-const MagicNumber = 0x3bef5c
+const MagicNumber = 0x3f
 
 const (
 	connected        = "200 Connected to HRPC"
